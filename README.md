@@ -1,4 +1,4 @@
-### Olá! Eu sou a Nicoli Kassa 👋
+### Oii! Eu sou a Nicoli Kassa 👋
 - 1/8 Engenharia de Software - FIAP 
 - Ensino Médio integrado com o curso de Desenvolvimento de Sistemas - ETEC
 - Apaixonada por tecnologia e por criar coisas novas
