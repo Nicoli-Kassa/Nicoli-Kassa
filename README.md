@@ -1,9 +1,8 @@
 ### Oii! Eu sou a Nicoli Kassa 👋
-- 1/8 Engenharia de Software - FIAP 
-- Ensino Médio integrado com o curso de Desenvolvimento de Sistemas - ETEC
-- Apaixonada por tecnologia e por criar coisas novas
+- 👩‍💻 1/8 Engenharia de Software - FIAP 
+- 🎓 Ensino Médio integrado com o curso de Desenvolvimento de Sistemas - ETEC
+- 💙 Apaixonada por tecnologia e por criar coisas novas
 
-<br>
 <!-- Adicionar mais tarde
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolikassa/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] () -->
