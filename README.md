@@ -4,7 +4,8 @@
 - Apaixonada por tecnologia e por criar coisas novas
 
 <br>
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolikassa/?next=%2F)
+<!-- Adicionar mais tarde
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolikassa/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] () -->
 
 ![Kassa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicoli-Kassa&show_icons=true&theme=radical)
@@ -20,3 +21,4 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoli-Kassa&layout=compact) -->
