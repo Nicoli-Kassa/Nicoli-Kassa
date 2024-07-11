@@ -3,9 +3,12 @@
 - 🎓 Ensino Médio integrado com o curso de Desenvolvimento de Sistemas - ETEC
 - 💙 Apaixonada por criar coisas novas e ouvir um Jorge Ben
 <br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicoli-kassa-44a72330b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](kassanicoli@gmail.com)
+
 <!-- Adicionar mais tarde
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolikassa/?next=%2F)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] () -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolikassa/?next=%2F) -->
 
 <div>
     <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Nicoli-Kassa&show_icons=true&theme=radical">
@@ -23,4 +26,3 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoli-Kassa&layout=compact) -->
